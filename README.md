@@ -64,5 +64,5 @@ public class IndexController {
 }
 ```
 
-可通过项目[leisure-rpc-example](https://github.com/OakWang/leisure-rpc-example)快速获取展示示例。
+Leisure RPC源码：[leisure-rpc-spring-boot-starter](https://github.com/OakWang/leisure-rpc-spring-boot-starter)
 
